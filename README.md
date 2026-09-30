@@ -16,3 +16,8 @@ A responsive React + Vite starter for The Techy Baba, using a hybrid dark/light 
 
 ## Important
 This is Phase 1 UI only. Authentication, real product persistence, admin authorization, affiliate URLs, comparison logic and analytics are not connected yet. Demo prices/products are placeholders. Before production, replace them with verified data and implement server-side authorization.
+
+## Project Documentation
+
+- [Phase 1 – Foundation](./README.md)
+- [Phase 2 – UI Development](./README_PHASE_2.md)
